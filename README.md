@@ -16,3 +16,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 To run tests use below command:
 
 ### `npm test`
+
+git@github.com:elieishi/stackexchangetest.git
